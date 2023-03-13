@@ -1,0 +1,6 @@
+1 mem1 0
+2 mem2 0
+3 mem3 0
+4 hammad 0
+5 aliyn2 0
+6 sayyam 2
